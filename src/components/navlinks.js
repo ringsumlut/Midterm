@@ -11,7 +11,7 @@ export default function NavBar() {
         <a href="/game" class="item">
           <i class="gamepad icon" size="large"></i>
         </a>
-        <a href="/game" class="item">
+        <a href="/contact" class="item">
           <i class="users icon" size="large"></i>
         </a>
       </div>

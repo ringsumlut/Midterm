@@ -17,9 +17,9 @@ const HomePage = () => {
               <p>Some random text that needs not readen</p>
             </div>
             <div>
-              <Button class="ui green button" primary>
+              <button class="ui green button" primary>
                 Join Now!
-              </Button>
+              </button>
             </div>
           </Grid.Column>
         </Grid>
