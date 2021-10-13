@@ -5,15 +5,15 @@ export default function NavBar() {
   return (
     <nav>
       <div class="ui icon menu">
-        <Link to="/" class="item">
+        <a href="/" class="item">
           <i class="home icon" size="large"></i>
-        </Link>
-        <Link to="/game" class="item">
+        </a>
+        <a href="/game" class="item">
           <i class="gamepad icon" size="large"></i>
-        </Link>
-        <Link to="/game" class="item">
+        </a>
+        <a href="/game" class="item">
           <i class="users icon" size="large"></i>
-        </Link>
+        </a>
       </div>
     </nav>
   );
